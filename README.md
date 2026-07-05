@@ -1,5 +1,5 @@
  ![enter image description here](https://img.shields.io/badge/python-3.8-blue.svg)
-# Redis-Clone
+# Redis – In Memory Cache database
 This is a prototype for Redis with some basic functionalities. It can be used like any REST API. 
 ### Table of Contents
 ---
